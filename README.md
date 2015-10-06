@@ -24,6 +24,13 @@ website: http://stephendiehl.com
 
 ## Hacklab intro
 
+We'll be doing two introductory sets to start with, before everyone can break out into groups to work on their own projects.
+
+### Generating random text with Markov Chains
+https://github.com/xnomagichash/hacklab-ml/blob/master/Markov%20generated%20text.ipynb
+
+### Supervised and Unsupervised learning with sklearn
+https://github.com/xnomagichash/hacklab-ml/blob/master/Supervised%20and%20Unsupervised%20ML.ipynb
 
 
 ## Projects
