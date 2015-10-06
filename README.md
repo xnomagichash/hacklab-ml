@@ -16,7 +16,7 @@ email: brendan@hyperplane.vc
 
 ## TA Intro
 With me today is Stephen Diehl, chief architect at Elsen and a well known face in the Python numerical computing community.
-If you're as fascinated with CS as I am, you'll find his we site a treasure trove of cool Python and Haskell material.
+If you're as fascinated with CS as I am, you'll find his website a treasure trove of cool Python and Haskell lessons.
 
 twitter: @smdiehl
 
