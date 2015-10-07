@@ -5,6 +5,18 @@ If you don't have everything working yet (or maybe even if you do, go to http://
 the Anaconda Python distribution. It will make installation a lot easier and you'll be able to edit your code
 inside the browser!
 
+Install the Natural Language Toolkit:
+
+> conda install nltk
+
+Download the base corpus:
+
+> import nltk; nltk.download()
+
+Start the IPython notebook:
+
+> ipython notebook --matplotlib=inline
+
 ## Teacher Intro
 My name is Brendan Kohler. I'm a VC and co-founder of **Hyperplane Venture Capital**, a VC firm focused exclusively
 on companies bringing ML related technologies to market. I'm also co-founder of a new cloud infrastructure company
